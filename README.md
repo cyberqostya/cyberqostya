@@ -1,12 +1,10 @@
 # Привет <img src="https://www.emojiall.com/images/60/telegram/270c.gif" width="35" />
 
-### Я фронтенд-разработчик
+### Меня зовут Костя и я фронтенд-разработчик
 
-Мой стек:
+#### Мой стек:
 * HTML
-* CSS
-
-   SCSS
+* CSS (_SCSS_)
 
 * JS
 
