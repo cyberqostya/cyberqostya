@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://www.emojiall.com/images/60/telegram/270c.gif" />
 
 <!--
 **cyberqostya/cyberqostya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
