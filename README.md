@@ -1,4 +1,4 @@
-# Привет <img src="https://www.emojiall.com/images/60/telegram/270c.gif" width="25" />
+# Привет <img src="https://www.emojiall.com/images/60/telegram/270c.gif" width="35" />
 
 ### Я фронтенд-разработчик
 
