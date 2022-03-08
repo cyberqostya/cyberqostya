@@ -5,7 +5,9 @@
 Мой стек:
 * HTML
 * CSS
+
    SCSS
+
 * JS
 *   React (hooks)
 
