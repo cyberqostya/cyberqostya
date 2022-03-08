@@ -16,4 +16,4 @@
 * [Telegramm](https://t.me/cyberqostya)
 * [Phone](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-<img src="https://www.emojiall.com/images/60/telegram/1f48e.gif" width="45" hspace="500" /> 
+<img src="https://www.emojiall.com/images/60/telegram/1f48e.gif" width="45" hspace="400" /> 
