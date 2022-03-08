@@ -15,4 +15,4 @@
 * [E-mail](mailto:"1konstantinmikov@gmail.com")
 * [Telegramm](https://t.me/cyberqostya)
 
-<img src="https://i.gifer.com/origin/72/721a74d028c94f2d8c24f3058d079bc0_w200.gif" width="100" />
+<img src="https://i.gifer.com/origin/72/721a74d028c94f2d8c24f3058d079bc0_w200.gif" width="1000" />
