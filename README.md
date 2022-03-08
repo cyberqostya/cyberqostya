@@ -5,11 +5,7 @@
 #### Мой стек:
 * HTML
 * CSS (_SCSS_)
-
-* JS
-
-   React (hooks)
-   CRA
+* JS (_React (hooks), CRA_)
    
    
 
