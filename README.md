@@ -11,4 +11,4 @@
 * Redux
 * TypeScript
 
-[E-mail](mailto: 1konstantinmikov@gmail.com)
+[E-mail](mailto:"1konstantinmikov@gmail.com")
