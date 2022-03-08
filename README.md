@@ -5,7 +5,11 @@
 #### Мой стек:
 * HTML
 * CSS (_SCSS_)
-* JS (_React (hooks), CRA_)
+* JavaScript (_React [hooks], CRA_)
+
+#### Изучаю:
+* Redux
+* TypeScript
    
    
 
