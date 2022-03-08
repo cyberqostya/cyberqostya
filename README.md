@@ -11,4 +11,8 @@
 * Redux
 * TypeScript
 
-[E-mail](mailto:"1konstantinmikov@gmail.com")
+### Связь со мной:
+* [E-mail](mailto:"1konstantinmikov@gmail.com")
+* [Telegramm](https://t.me/cyberqostya)
+
+<img src="https://i.gifer.com/3HeZ.gif" />
