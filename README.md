@@ -9,7 +9,10 @@
    SCSS
 
 * JS
+
    React (hooks)
+   CRA
+   
    
 
 <!--
