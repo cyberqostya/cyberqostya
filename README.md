@@ -3,9 +3,11 @@
 ### Меня зовут Костя и я фронтенд-разработчик
 
 ### Мой стек:
-* HTML
-* CSS (_SCSS_)
+* HTML (_flex, grid_)
+* CSS (_SCSS, BEM_)
 * JavaScript (_React [hooks], CRA_)
+* Wordpress, Bitrix, ModX, Tilda
+* Git
 
 ### Изучаю:
 * Redux
