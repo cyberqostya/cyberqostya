@@ -1,21 +1,15 @@
-## Привет <img src="https://www.emojiall.com/images/60/telegram/270c.gif" width="35" />
+## Привет, <img src="https://www.emojiall.com/images/60/telegram/270c.gif" width="35" />
 
-### Меня зовут Костя и я фронтенд-разработчик
+### Я Костя и я Frontend Developer | Джаваскриптизёр | И просто хороший парень
 
 ### Мой стек:
-* HTML (_flex, grid_)
-* CSS (_SCSS, BEM_)
-* JavaScript (_React [hooks], CRA_)
-* Wordpress, Bitrix, ModX, Tilda
-* Git
-
-### Изучаю:
-* Redux
-* TypeScript
+* NextJS, ReactJS (чуть-чуть VueJS), VanillaJS
+* MobX, Redux Toolkit? Zustand
+* SCSS
+* Wordpress (God Damn)
 
 ### Связь со мной:
 * [E-mail](mailto:"1konstantinmikov@gmail.com")
 * [Telegramm](https://t.me/cyberqostya)
-* [Phone](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-<img src="https://www.emojiall.com/images/60/telegram/1f48e.gif" width="45" hspace="400" /> 
+<img src="[https://www.emojiall.com/images/60/telegram/1f48e.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGx0eWFvcGE3M2tnMml5MXdxbndwN3ptYXdyc3lwdDkzd3BjM3pnaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MT5UUV1d4CXE2A37Dg/giphy.gif)" width="45" hspace="400" /> 
