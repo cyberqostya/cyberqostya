@@ -12,4 +12,4 @@
 * [E-mail](mailto:"1konstantinmikov@gmail.com")
 * [Telegramm](https://t.me/cyberqostya)
 
-<img src="[https://www.emojiall.com/images/60/telegram/1f48e.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGx0eWFvcGE3M2tnMml5MXdxbndwN3ptYXdyc3lwdDkzd3BjM3pnaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MT5UUV1d4CXE2A37Dg/giphy.gif)" width="100" /> 
+<img src="https://c.tenor.com/Z16slmCnZFcAAAAC/tenor.gif" width="100" /> 
