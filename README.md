@@ -6,7 +6,7 @@
 * NextJS, ReactJS (чуть-чуть VueJS), VanillaJS
 * MobX, Redux Toolkit, Zustand
 * SCSS
-* Wordpress (God Damn)
+* Wordpress (Guud Damn)
 
 ### Связь со мной:
 * [E-mail](mailto:"1konstantinmikov@gmail.com")
