@@ -8,7 +8,7 @@
 * SCSS
 * Wordpress (Guud Damn)
 
-### Сборник тестовых заданий https://cyberqostya.github.io/junior-projects
+### Сборник тестовых заданий https://cyberqostya.github.io/testovie-zadaniya
 
 ### Связь со мной:
 * [E-mail](mailto:"1konstantinmikov@gmail.com")
