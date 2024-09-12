@@ -12,4 +12,4 @@
 * [E-mail](mailto:"1konstantinmikov@gmail.com")
 * [Telegramm](https://t.me/cyberqostya)
 
-<img src="https://c.tenor.com/Z16slmCnZFcAAAAC/tenor.gif" width="100" /> 
+<img src="https://c.tenor.com/Z16slmCnZFcAAAAC/tenor.gif" width="400" /> 
